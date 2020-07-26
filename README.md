@@ -1,4 +1,4 @@
-### Self introduction 👋
+### About admin 👋
 
 - 🔭 Yantai City, Shandong Province, China
 - ⚡ ACMer/AI
