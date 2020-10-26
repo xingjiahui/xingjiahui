@@ -2,12 +2,11 @@
 
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/xingjiahui/CDN@latest/2020/10/26/4e7c0bddf9113cb320df713cd49c704f.png" />
 
-#### Info
+#### Visiter
 
 ![](http://antzuhl.cn:4000/get/@xingjiahui.readme)
 
-
-
+#### Info
 
 ![info](https://github-readme-stats.vercel.app/api?username=xingjiahui&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
