@@ -18,7 +18,7 @@
 [![](https://img.shields.io/badge/IntelliJ%20IDEA-2020.1.2-FE305E?logo=IntelliJ%20IDEA&logoColor=ffffff)](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/WebStorm-2019.3.4-00B3FF?logo=WebStorm&logoColor=\FE305E)](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/PyCharm-2020.1.2-1BD88A?logo=PyCharm&logoColor=ffffff)](https://www.jetbrains.com/)
-[![](https://img.shields.io/badge/Microsoft Edge- 86.0.622.51-366DBF?logo=Microsoft Edge&logoColor=ffffff)](https://www.microsoft.com/zh-cn/edge/)
+[![](https://img.shields.io/badge/Microsoft%20Edge%20-%2086.0.622.5-366DBF?logo=Microsoft%20Edge&logoColor=ffffff)](https://www.microsoft.com/zh-cn/edge)
 
 #### Language
 
