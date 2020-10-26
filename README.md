@@ -28,7 +28,6 @@
 [![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)]()
 [![](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white)]()
 [![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)]()
-
 #### Contact
 
 [![](https://img.shields.io/badge/-mail-007396?logo=Gmail&logoColor=ffffff)](mailto:admin@mail.plushine.cn)
