@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/xingjiahui/CDN@latest/2020/10/26/2d14fb0c6f61ada8c0ae9609ffadd100.png" />
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/xingjiahui/CDN@latest/2020/10/26/4e7c0bddf9113cb320df713cd49c704f.png" />
 
 #### Info
 
