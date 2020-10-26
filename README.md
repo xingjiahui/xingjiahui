@@ -5,8 +5,6 @@
 ![](http://antzuhl.cn:4000/get/@xingjiahui.readme)
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/xingjiahui/CDN@latest/2020/10/26/4e7c0bddf9113cb320df713cd49c704f.png" />
 
-![info](https://github-readme-stats.vercel.app/api?username=xingjiahui&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-
 #### System
 
 [![](https://img.shields.io/badge/Windows-2004-0078D6?&logo=Windows&logoColor=ffffff)](https://www.microsoftstore.com.cn/software/windows)
