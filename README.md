@@ -34,4 +34,4 @@
 [![](https://img.shields.io/badge/-mail-007396?logo=Gmail&logoColor=ffffff)](mailto:admin@mail.plushine.cn)
 [![](https://img.shields.io/badge/-Bilibili-007396?logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/148073456)
 [![](https://img.shields.io/badge/-Zhihu-007396?logo=Zhihu&logoColor=ffffff)](https://www.zhihu.com/people/xwnjyd)
-
+[![](https://img.shields.io/badge/-Blog-007396?logo=appveyor&logoColor=ffffff)](https://lgl1227.github.io)
